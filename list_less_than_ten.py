@@ -14,6 +14,7 @@ new_arr=[]
 for i in range(len(arr)):
     if arr[i]<num:
         new_arr.append(arr[i])
+        new_arr.sort()
 
 print(new_arr)
     
