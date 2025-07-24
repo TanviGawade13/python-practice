@@ -39,6 +39,8 @@ I am currently working on exercises up to: **Exercise [NUMBER] - [EXERCISE_NAME]
 * [Exercise 2: Odd Or Even](odd_even.py)
 * [Exercise 3: List Less Than Ten](list_less_than_ten.py)
 * [Exercise 4: Divisors](divisors.py)
+* [Exercise 5: List overlap](list_overlap.py)
+* [Exercise 6: String lists](string_lists.py)
 
 
 ---
