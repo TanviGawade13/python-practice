@@ -41,6 +41,8 @@ I am currently working on exercises up to: **Exercise [NUMBER] - [EXERCISE_NAME]
 * [Exercise 4: Divisors](divisors.py)
 * [Exercise 5: List overlap](list_overlap.py)
 * [Exercise 6: String lists](string_lists.py)
+* [Exercise 7: List Comprehension](list_comprehension.py)
+* [Exercise 8: Rock Paper Scissors](rock_paper_scissors.py)
 
 
 ---
